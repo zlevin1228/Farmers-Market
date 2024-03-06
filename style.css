@@ -1,0 +1,43 @@
+body {
+  background-image: url(stand.jpg);
+  margin: 0;
+  padding: 3rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: overlay;
+  background-attachment: fixed;
+  background-color: #d1c2c2;
+}
+
+img.fruit {
+  max-width: 100%;
+}
+
+.logo {
+  width: 50%;
+  margin: 5%;
+  margin-top: 10px;
+}
+
+.market {
+  width: 90%;
+  margin: 5%;
+  margin-top: 10px;
+}
+
+.img-thumbnail {
+  padding: .5em;
+  background-color: white !important;
+}
+
+h3 {
+  font-family: 'Unbounded', cursive;
+  font-size: 3vw;
+  color: black;
+}
+
+.market{
+  border-color: white;
+  border-radius: 5px;
+  border-width: 2px solid black;
+}
